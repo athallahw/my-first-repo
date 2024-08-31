@@ -7,3 +7,5 @@ Kelas : PBP E
 Hobi : Jam
 
 Jurusan : Sistem Informasi
+
+Atlet Favorit : messi
