@@ -9,3 +9,5 @@ Hobi : Jam
 Jurusan : Sistem Informasi
 
 Atlet Favorit : messi
+
+Olahraga Favorit : lari
